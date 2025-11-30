@@ -21,23 +21,27 @@
 
 ---
 
-## 📅 Activity Heatmap (Solved per Month)  
+---
+
+# 📊 LeetCode Performance Graphs
+
+## 🗓️ Solved Per Month (Activity Heatmap)
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/raja_0203?ext=heatmap&theme=dark" alt="LeetCode Heatmap">
 </p>
 
 ---
 
-## 🔥 Streak Graph / Daily Activity  
+## 🔥 Streak & Daily Solving Activity
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/raja_0203?ext=activity&theme=dark" alt="LeetCode Activity">
+  <img src="https://leetcard.jacoblin.cool/raja_0203?ext=activity&theme=dark" alt="LeetCode Streak Graph">
 </p>
 
 ---
 
-## 🏆 LeetCode Contest Performance  
+## 🏆 Contest Rating Progress
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/raja_0203?ext=contest&theme=dark" alt="LeetCode Contest">
+  <img src="https://leetcard.jacoblin.cool/raja_0203?ext=contest&theme=dark" alt="LeetCode Contest Rating Graph">
 </p>
 
 ---
