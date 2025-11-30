@@ -72,7 +72,4 @@
 
 <p align="center">⭐ If you like this profile, consider giving my repos a star!</p>
 
-<!---LeetCode Topics Start-->
-| ------- |
-| [0001-two-sum](https://github.com/rajarajeshvar/Leetcode/tree/master/0001-two-sum) |
-<!---LeetCod
+
