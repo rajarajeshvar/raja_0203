@@ -27,7 +27,7 @@
 
 ## 🗓️ Solved Per Month (Activity Heatmap)
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/raja_0203?ext=heatmap&theme=dark" alt="LeetCode Heatmap">
+  <img src="https://leetgraph.app/api/chart?username=raja_0203&theme=dark" />
 </p>
 
 ---
