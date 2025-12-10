@@ -9,9 +9,7 @@ class Solution(object):
         s1=""
         for i in range(len(s)):
             if s[i] in l:
-                l1.append(s[i])
-        
-            
+                l1.append(s[i])    
         for i in range(len(s)):
             if s[i] in l:
                 s1=s1+l1[-1]
