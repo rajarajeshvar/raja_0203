@@ -5,13 +5,7 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        nums1=list(set(nums1))
-        nums2=list(set(nums2))
-        l=[]
-        
-        for i in range(len(nums2)):
-            if nums2[i] in nums1:
-                l.append(nums2[i])
-        return l
-            
+        nums1=set(nums1)
+        nums2=set(nums2)
+        return list(nums1 & nums2)
 
