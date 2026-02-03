@@ -113,6 +113,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/rajarajeshvar/Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/rajarajeshvar/Leetcode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/rajarajeshvar/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -125,6 +126,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rajarajeshvar/Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
