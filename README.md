@@ -88,6 +88,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rajarajeshvar/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/rajarajeshvar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -111,6 +112,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rajarajeshvar/Leetcode/tree/master/0027-remove-element) |
 | [0169-majority-element](https://github.com/rajarajeshvar/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
