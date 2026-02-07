@@ -85,6 +85,7 @@
 | [0125-valid-palindrome](https://github.com/rajarajeshvar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rajarajeshvar/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/rajarajeshvar/Leetcode/tree/master/0551-student-attendance-record-i) |
 ## Two Pointers
@@ -101,6 +102,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rajarajeshvar/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/rajarajeshvar/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1009-complement-of-base-10-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Sorting
 |  |
