@@ -1,11 +1,10 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-        l=[]
-        m=0
-        for i in nums:
-            for j in nums:
-                if i>j:
-                    m=m+1
-            l.append(m)
-            m=0  
-        return l   
+        sorted_nums = sorted(nums)   # O(n log n)
+
+        first_index = {}
+        for i, num in enumerate(sorted_nums):
+            if num not in first_index:
+                first_index[num] = i
+
+        return [first_index[num] for num in nums]
