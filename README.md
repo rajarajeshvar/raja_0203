@@ -125,6 +125,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajarajeshvar/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/rajarajeshvar/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rajarajeshvar/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rajarajeshvar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
@@ -163,6 +164,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rajarajeshvar/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajarajeshvar/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
