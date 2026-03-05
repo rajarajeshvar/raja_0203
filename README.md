@@ -99,6 +99,7 @@
 | [0344-reverse-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2460-apply-operations-to-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Math
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0258-add-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [1470-shuffle-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [2460-apply-operations-to-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
