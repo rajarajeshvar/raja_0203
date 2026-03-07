@@ -5,9 +5,7 @@ class Solution(object):
         :rtype: int
         """
         nums=sorted(set(nums))
-        print(nums)
         if len(nums)<3:
             return nums[-1]
-        else:
-            return nums[-3]
+        return nums[-3]
         
