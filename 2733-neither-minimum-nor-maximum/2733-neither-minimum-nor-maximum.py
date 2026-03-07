@@ -1,10 +1,7 @@
 class Solution(object):
     def findNonMinOrMax(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        if len(nums)<3:
+        if len(nums) < 3:
             return -1
-        return sorted(nums)[1]
         
+        a, b, c = nums[0], nums[1], nums[2]
+        return a + b + c - max(a, b, c) - min(a, b, c)
