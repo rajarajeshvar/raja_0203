@@ -5,7 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        nums=sorted(nums)
-        k=nums[-k]
+        k=sorted(nums)[-k]
+        
         return k
         
