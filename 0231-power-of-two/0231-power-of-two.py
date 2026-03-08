@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         for i in range(0,32):
-            if n==2**i or n==2**-i:
+            if n==2**i :
                 return True
         return False
         
