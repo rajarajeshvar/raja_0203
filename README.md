@@ -105,6 +105,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rajarajeshvar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajarajeshvar/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/rajarajeshvar/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rajarajeshvar/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajarajeshvar/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -244,4 +246,8 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rajarajeshvar/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
