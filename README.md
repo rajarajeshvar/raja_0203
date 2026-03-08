@@ -89,6 +89,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajarajeshvar/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/0415-add-strings) |
 | [0551-student-attendance-record-i](https://github.com/rajarajeshvar/Leetcode/tree/master/0551-student-attendance-record-i) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [3280-convert-date-to-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/3280-convert-date-to-binary) |
 ## Two Pointers
@@ -153,6 +154,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2460-apply-operations-to-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rajarajeshvar/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -210,6 +212,7 @@
 | [0414-third-maximum-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/rajarajeshvar/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rajarajeshvar/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Divide and Conquer
 |  |
@@ -220,6 +223,7 @@
 | [0191-number-of-1-bits](https://github.com/rajarajeshvar/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
 | ------- |
@@ -250,6 +254,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajarajeshvar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -259,6 +264,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Recursion
 |  |
 | ------- |
