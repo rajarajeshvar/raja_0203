@@ -7,6 +7,6 @@ class Solution(object):
         """
         for i in range(0,len(nums)):
             nums[i]=int(nums[i])
-        nums=sorted(nums)
-        return str(nums[-k])
+        
+        return str(sorted(nums)[-k])
         
