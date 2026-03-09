@@ -152,6 +152,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rajarajeshvar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/rajarajeshvar/Leetcode/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -214,6 +215,7 @@
 | [0414-third-maximum-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/rajarajeshvar/Leetcode/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rajarajeshvar/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -226,6 +228,7 @@
 | [0191-number-of-1-bits](https://github.com/rajarajeshvar/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
@@ -246,6 +249,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
@@ -259,12 +263,14 @@
 | [0347-top-k-frequent-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajarajeshvar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -277,4 +283,12 @@
 | [0231-power-of-two](https://github.com/rajarajeshvar/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rajarajeshvar/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajarajeshvar/Leetcode/tree/master/0342-power-of-four) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
