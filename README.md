@@ -117,6 +117,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajarajeshvar/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rajarajeshvar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/rajarajeshvar/Leetcode/tree/master/0441-arranging-coins) |
 | [1017-convert-to-base-2](https://github.com/rajarajeshvar/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/rajarajeshvar/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -189,6 +190,7 @@
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajarajeshvar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/rajarajeshvar/Leetcode/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
