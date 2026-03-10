@@ -26,9 +26,3 @@ class Solution(object):
             for i in nums:
                 l.append(s/i)
             return l
-
-        
-
-            
-        print(l)
-
