@@ -1,21 +1,29 @@
 class Solution(object):
     def productExceptSelf(self, nums):
-        total=1
-        zero_count=0
-        for num in nums:
-            if num==0:
-                zero_count+=1
-            else:
-                total*=num
-        ans=[]
-        for num in nums:
-            if zero_count>1:
-                ans.append(0)
-            elif zero_count==1:
-                if num==0:
-                    ans.append(total)
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        s=1
+        h=0
+        l=[]
+        n1=nums.count(0)
+
+        if n1>1:
+            return [0]*len(nums)
+        elif n1==1:
+            for i in range(0,len(nums)):
+                if nums[i]==0:
+                    h=i
                 else:
-                    ans.append(0)
-            else:
-                ans.append(total//num)
-        return ans
+                    s*=nums[i]
+                    l.append(0)
+            l.append(0)
+            l[h]=s
+            return l
+        else:
+            for i in nums:
+                s*=i
+            for i in nums:
+                l.append(s/i)
+            return l
