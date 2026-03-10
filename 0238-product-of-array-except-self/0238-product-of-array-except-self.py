@@ -11,7 +11,7 @@ class Solution(object):
 
         if n1>1:
             return [0]*len(nums)
-        if n1==1:
+        elif n1==1:
             for i in range(0,len(nums)):
                 if nums[i]==0:
                     h=i
