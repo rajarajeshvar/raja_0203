@@ -317,4 +317,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajarajeshvar/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/rajarajeshvar/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
