@@ -115,6 +115,7 @@
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajarajeshvar/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajarajeshvar/Leetcode/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajarajeshvar/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rajarajeshvar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/0415-add-strings) |
@@ -253,6 +254,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajarajeshvar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0338-counting-bits](https://github.com/rajarajeshvar/Leetcode/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -302,4 +304,8 @@
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
