@@ -17,7 +17,6 @@ class Solution(object):
                 else:
                     s*=nums[i]
                     l.append(0)
-            print(h)
             l.insert(h,s)
             return l
         else:
