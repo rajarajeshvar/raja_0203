@@ -7,10 +7,11 @@ class Solution(object):
         s=1
         h=0
         l=[]
+        n1=nums.count(0)
 
-        if nums.count(0)>1:
+        if n1>1:
             return [0]*len(nums)
-        if 0 in nums:
+        if n1==1:
             for i in range(0,len(nums)):
                 if nums[i]==0:
                     h=i
