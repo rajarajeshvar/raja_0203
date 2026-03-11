@@ -6,9 +6,9 @@ class Solution(object):
         """
         n=1
         m=1
-        nums=sorted(nums,reverse=True)
-        m=nums[-1]*nums[-2]*nums[0]
-        n=nums[0]*nums[1]*nums[2]
+        nums=sorted(nums)
+        m=nums[-1]*nums[-2]*nums[-3]
+        n=nums[0]*nums[1]*nums[-1]
         if n>m:   
             return n
         else:
