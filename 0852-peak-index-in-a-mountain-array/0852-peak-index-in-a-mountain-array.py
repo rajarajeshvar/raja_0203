@@ -4,5 +4,11 @@ class Solution(object):
         :type arr: List[int]
         :rtype: int
         """
-        return arr.index(max(arr))
+        max=0
+        m=0
+        for i in range(0,len(arr)):
+            if arr[i] > max:
+                max=arr[i]
+                m=i
+        return m
         
