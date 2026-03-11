@@ -164,6 +164,7 @@
 | [0485-max-consecutive-ones](https://github.com/rajarajeshvar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajarajeshvar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/rajarajeshvar/Leetcode/tree/master/0645-set-mismatch) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -202,6 +203,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajarajeshvar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/rajarajeshvar/Leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/rajarajeshvar/Leetcode/tree/master/0441-arranging-coins) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
