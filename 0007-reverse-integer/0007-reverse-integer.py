@@ -6,15 +6,17 @@ class Solution(object):
         """
         if x<0:
             s=str(-x)
-            if int(s[::-1])<2**31-1:
-                return int("-"+s[::-1])
+            s=s[::-1]
+            if int(s)<2**31-1:
+                return int("-"+s)
             else:
                 return 0
         if x==0:
             return 0
         if x>0 :
             s=str(x)
-            if int(s[::-1])<2**31-1:
-                return int(s[::-1])
+            s=s[::-1]
+            if int(s)<2**31-1:
+                return int(s)
             else:
                 return 0
