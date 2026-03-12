@@ -112,6 +112,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/rajarajeshvar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/rajarajeshvar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
@@ -209,6 +210,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rajarajeshvar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/rajarajeshvar/Leetcode/tree/master/0190-reverse-bits) |
