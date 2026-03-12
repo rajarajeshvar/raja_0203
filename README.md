@@ -91,6 +91,7 @@
 | [0415-add-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/rajarajeshvar/Leetcode/tree/master/0551-student-attendance-record-i) |
+| [1392-longest-happy-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
@@ -315,6 +316,7 @@
 ## String Matching
 |  |
 | ------- |
+| [1392-longest-happy-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Backtracking
 |  |
@@ -331,4 +333,12 @@
 | [0176-second-highest-salary](https://github.com/rajarajeshvar/Leetcode/tree/master/0176-second-highest-salary) |
 | [0184-department-highest-salary](https://github.com/rajarajeshvar/Leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/rajarajeshvar/Leetcode/tree/master/0185-department-top-three-salaries) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
