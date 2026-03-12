@@ -11,9 +11,9 @@ class Solution(object):
                 return int("-"+s)
             else:
                 return 0
-        if x==0:
+        elif x==0:
             return 0
-        if x>0 :
+        else:
             s=str(x)
             s=s[::-1]
             if int(s)<2**31-1:
