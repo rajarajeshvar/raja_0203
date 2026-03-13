@@ -83,6 +83,7 @@
 | [0005-longest-palindromic-substring](https://github.com/rajarajeshvar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/rajarajeshvar/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/rajarajeshvar/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rajarajeshvar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -114,6 +115,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/rajarajeshvar/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rajarajeshvar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
@@ -134,6 +136,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rajarajeshvar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/0415-add-strings) |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/rajarajeshvar/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/rajarajeshvar/Leetcode/tree/master/0190-reverse-bits) |
