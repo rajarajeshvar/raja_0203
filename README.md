@@ -119,6 +119,7 @@
 | [0067-add-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/rajarajeshvar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajarajeshvar/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajarajeshvar/Leetcode/tree/master/0342-power-of-four) |
