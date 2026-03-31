@@ -8,7 +8,7 @@ class Solution(object):
         l=[]
         s=""
         m=0
-        
+        banned = set(banned)
         for i in paragraph:
             if i in "!?',;.":
                 l.append(s.lower())
