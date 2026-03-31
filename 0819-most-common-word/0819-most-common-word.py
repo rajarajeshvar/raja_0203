@@ -24,12 +24,11 @@ class Solution(object):
         n=len(l)
         d={}
         for i in range(n):
-            if l[i]=="":
-                continue
-            if l[i] in d:
-                d[l[i]]+=1
-            else:
-                d[l[i]]=1
+            if l[i]!="":
+                if l[i] in d:
+                    d[l[i]]+=1
+                else:
+                    d[l[i]]=1
         for i in d:
             if i not in banned and d[i]>m:
                 m=d[i]
