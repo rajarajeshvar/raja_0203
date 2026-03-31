@@ -21,7 +21,6 @@ class Solution(object):
                 l.append(s.lower())
                 s=""
         l.append(s.lower())
-        print(l)
         n=len(l)
         d={}
         for i in range(n):
@@ -31,7 +30,6 @@ class Solution(object):
                 d[l[i]]+=1
             else:
                 d[l[i]]=1
-        print(d)
         for i in d:
             if i not in banned and d[i]>m:
                 m=d[i]
