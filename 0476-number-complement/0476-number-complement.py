@@ -7,6 +7,7 @@ class Solution(object):
         s=""
         r=0
         m=0
+        n=0
         while num!=0:
             r=num%2
             if r==0:
@@ -15,7 +16,8 @@ class Solution(object):
                 r="0"
             s=r+s
             num=num//2
-        n=len(s)
+            n=n+1
+        
         for i in s:
             h=int(i)
             n=n-1
