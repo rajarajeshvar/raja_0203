@@ -15,12 +15,10 @@ class Solution(object):
                 r="0"
             s=r+s
             num=num//2
-        print(s)
         n=len(s)
         for i in s:
             h=int(i)
             n=n-1
-            print(h)
             m=m+(h*(2**n))
         return m
 
