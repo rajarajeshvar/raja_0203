@@ -119,6 +119,7 @@
 | [0007-reverse-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/rajarajeshvar/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/0067-add-binary) |
+| [0172-factorial-trailing-zeroes](https://github.com/rajarajeshvar/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/rajarajeshvar/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0263-ugly-number) |
