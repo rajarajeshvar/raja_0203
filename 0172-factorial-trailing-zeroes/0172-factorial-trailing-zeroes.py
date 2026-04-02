@@ -9,8 +9,9 @@ class Solution(object):
         for i in range(0,n):
             m=m*n
             n=n-1
-        s=str(m)
-        while s[-1]=="0":
+        m=str(m)
+        i=-1
+        while m[i]=="0":
             z+=1
-            s=s[:-1]
+            i=i-1
         return z
