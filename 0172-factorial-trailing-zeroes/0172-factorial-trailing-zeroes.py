@@ -9,7 +9,6 @@ class Solution(object):
         for i in range(0,n):
             m=m*n
             n=n-1
-        print(m)
         s=str(m)
         while s[-1]=="0":
             z+=1
