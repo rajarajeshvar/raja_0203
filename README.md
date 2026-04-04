@@ -174,6 +174,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rajarajeshvar/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0414-third-maximum-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rajarajeshvar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajarajeshvar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -201,6 +202,7 @@
 | [0347-top-k-frequent-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/rajarajeshvar/Leetcode/tree/master/0389-find-the-difference) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/rajarajeshvar/Leetcode/tree/master/0645-set-mismatch) |
@@ -238,6 +240,7 @@
 | [0342-power-of-four](https://github.com/rajarajeshvar/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/rajarajeshvar/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajarajeshvar/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/rajarajeshvar/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/rajarajeshvar/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rajarajeshvar/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -371,4 +374,8 @@
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajarajeshvar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
