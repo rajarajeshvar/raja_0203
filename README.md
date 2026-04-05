@@ -95,6 +95,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/rajarajeshvar/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0819-most-common-word](https://github.com/rajarajeshvar/Leetcode/tree/master/0819-most-common-word) |
+| [1143-longest-common-subsequence](https://github.com/rajarajeshvar/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1392-longest-happy-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rajarajeshvar/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -298,6 +299,7 @@
 | [0005-longest-palindromic-substring](https://github.com/rajarajeshvar/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0338-counting-bits](https://github.com/rajarajeshvar/Leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [1143-longest-common-subsequence](https://github.com/rajarajeshvar/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Counting Sort
 |  |
 | ------- |
