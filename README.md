@@ -87,6 +87,7 @@
 | [0058-length-of-last-word](https://github.com/rajarajeshvar/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rajarajeshvar/Leetcode/tree/master/0125-valid-palindrome) |
+| [0214-shortest-palindrome](https://github.com/rajarajeshvar/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -370,6 +371,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rajarajeshvar/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Backtracking
@@ -392,10 +394,12 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rajarajeshvar/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/rajarajeshvar/Leetcode/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Greedy
 |  |
