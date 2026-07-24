@@ -10,7 +10,6 @@ class Solution(object):
                 d[i]+=1
             else:
                 d[i]=1
-        print(d)
         for i in range(len(s)):
             if d[s[i]]==1:
                 return i
