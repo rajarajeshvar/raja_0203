@@ -4,13 +4,16 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
+        l=[]
         m=0
-        n=list(str(n))
+        for i in str(n):
+            l.append(int(i))
+
         
-        for i in range(len(n)):
-            for j in range(i+1,len(n)):
-                if int(n[i])*int(n[j])>m:
-                    m=int(n[i])*int(n[j])
+        for i in range(len(l)):
+            for j in range(i+1,len(l)):
+                if l[i]*l[j]>m:
+                    m=l[i]*l[j]
                 
         return m
 
