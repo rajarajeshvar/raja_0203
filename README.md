@@ -178,6 +178,7 @@
 | [0075-sort-colors](https://github.com/rajarajeshvar/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/rajarajeshvar/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/rajarajeshvar/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajarajeshvar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rajarajeshvar/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -324,6 +325,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rajarajeshvar/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0152-maximum-product-subarray](https://github.com/rajarajeshvar/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/rajarajeshvar/Leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1143-longest-common-subsequence](https://github.com/rajarajeshvar/Leetcode/tree/master/1143-longest-common-subsequence) |
