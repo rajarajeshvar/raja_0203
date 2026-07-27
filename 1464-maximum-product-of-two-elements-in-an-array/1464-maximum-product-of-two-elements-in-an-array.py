@@ -15,7 +15,6 @@ class Solution(object):
         for i in range(len(nums)):
             if nums[i]<=h1 and i!=j and nums[i]>=h2:
                 h2=nums[i]
-        print(h1,h2,j)
         return (h1-1)*(h2-1)
 
         
