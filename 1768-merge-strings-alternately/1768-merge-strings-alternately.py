@@ -5,16 +5,18 @@ class Solution(object):
         :type word2: str
         :rtype: str
         """
+        l=len(word1)
+        w=len(word2)
         s=""
-        if len(word1)>len(word2):
-            for i in range(len(word2)):
+        if l>w:
+            for i in range(w):
                 s+=word1[i]
                 s+=word2[i]
-            s+=word1[len(word2):]
+            s+=word1[w:]
             return s
         else:
-            for i in range(len(word1)):
+            for i in range(l):
                 s+=word1[i]
                 s+=word2[i]
-            s+=word2[len(word1):]
+            s+=word2[l:]
             return s
