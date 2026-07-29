@@ -95,6 +95,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rajarajeshvar/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/rajarajeshvar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/rajarajeshvar/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/rajarajeshvar/Leetcode/tree/master/0551-student-attendance-record-i) |
 | [0819-most-common-word](https://github.com/rajarajeshvar/Leetcode/tree/master/0819-most-common-word) |
@@ -123,6 +124,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/rajarajeshvar/Leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/rajarajeshvar/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Math
