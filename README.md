@@ -109,6 +109,7 @@
 | [3280-convert-date-to-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/rajarajeshvar/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3280-convert-date-to-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajarajeshvar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajarajeshvar/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/rajarajeshvar/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -246,6 +248,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/rajarajeshvar/Leetcode/tree/master/0819-most-common-word) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -460,4 +464,8 @@
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rajarajeshvar/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
