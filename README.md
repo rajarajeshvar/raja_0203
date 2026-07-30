@@ -107,6 +107,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -152,6 +153,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/rajarajeshvar/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajarajeshvar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -436,6 +438,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/rajarajeshvar/Leetcode/tree/master/0605-can-place-flowers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajarajeshvar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/rajarajeshvar/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Trie
