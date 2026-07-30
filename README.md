@@ -209,6 +209,7 @@
 | [0485-max-consecutive-ones](https://github.com/rajarajeshvar/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/rajarajeshvar/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajarajeshvar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/rajarajeshvar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/rajarajeshvar/Leetcode/tree/master/0645-set-mismatch) |
 | [0819-most-common-word](https://github.com/rajarajeshvar/Leetcode/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -348,6 +349,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajarajeshvar/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/rajarajeshvar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
