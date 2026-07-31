@@ -109,6 +109,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3280-convert-date-to-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -261,6 +262,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
@@ -326,6 +328,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rajarajeshvar/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/rajarajeshvar/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -349,6 +352,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/rajarajeshvar/Leetcode/tree/master/0819-most-common-word) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sliding Window
 |  |
@@ -452,6 +456,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/rajarajeshvar/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/rajarajeshvar/Leetcode/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajarajeshvar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/rajarajeshvar/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Trie
