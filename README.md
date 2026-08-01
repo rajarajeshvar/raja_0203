@@ -154,6 +154,7 @@
 | [0412-fizz-buzz](https://github.com/rajarajeshvar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/rajarajeshvar/Leetcode/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/rajarajeshvar/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajarajeshvar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1017-convert-to-base-2](https://github.com/rajarajeshvar/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -215,6 +216,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/rajarajeshvar/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/rajarajeshvar/Leetcode/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/rajarajeshvar/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajarajeshvar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rajarajeshvar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -370,6 +372,7 @@
 | [0338-counting-bits](https://github.com/rajarajeshvar/Leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/rajarajeshvar/Leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/rajarajeshvar/Leetcode/tree/master/0486-predict-the-winner) |
 | [1143-longest-common-subsequence](https://github.com/rajarajeshvar/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Counting Sort
 |  |
@@ -411,6 +414,7 @@
 | [0231-power-of-two](https://github.com/rajarajeshvar/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rajarajeshvar/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajarajeshvar/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/rajarajeshvar/Leetcode/tree/master/0486-predict-the-winner) |
 ## Merge Sort
 |  |
 | ------- |
@@ -495,4 +499,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/rajarajeshvar/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
