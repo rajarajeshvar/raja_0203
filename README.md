@@ -228,6 +228,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1720-decode-xored-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1720-decode-xored-array) |
+| [1732-find-the-highest-altitude](https://github.com/rajarajeshvar/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -433,6 +434,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajarajeshvar/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1732-find-the-highest-altitude](https://github.com/rajarajeshvar/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Database
 |  |
 | ------- |
