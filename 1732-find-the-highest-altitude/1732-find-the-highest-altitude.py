@@ -11,6 +11,6 @@ class Solution(object):
 
             if l[i+1]>=m:
                 m=l[i+1]
-        print(l)
+        
         return m
         
