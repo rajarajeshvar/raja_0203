@@ -221,6 +221,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rajarajeshvar/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rajarajeshvar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/rajarajeshvar/Leetcode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/rajarajeshvar/Leetcode/tree/master/0724-find-pivot-index) |
 | [0819-most-common-word](https://github.com/rajarajeshvar/Leetcode/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
@@ -438,6 +439,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajarajeshvar/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/rajarajeshvar/Leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/rajarajeshvar/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Database
 |  |
