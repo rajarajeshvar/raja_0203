@@ -132,6 +132,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rajarajeshvar/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rajarajeshvar/Leetcode/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/rajarajeshvar/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/rajarajeshvar/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Math
@@ -230,6 +231,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rajarajeshvar/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/rajarajeshvar/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1720-decode-xored-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/rajarajeshvar/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -267,6 +269,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rajarajeshvar/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1207-unique-number-of-occurrences](https://github.com/rajarajeshvar/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/rajarajeshvar/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -333,6 +336,7 @@
 | [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/rajarajeshvar/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rajarajeshvar/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
