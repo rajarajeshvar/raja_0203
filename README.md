@@ -427,6 +427,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/rajarajeshvar/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rajarajeshvar/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rajarajeshvar/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajarajeshvar/Leetcode/tree/master/0342-power-of-four) |
@@ -531,4 +532,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rajarajeshvar/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
