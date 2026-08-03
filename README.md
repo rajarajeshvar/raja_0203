@@ -163,6 +163,7 @@
 | [1017-convert-to-base-2](https://github.com/rajarajeshvar/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/rajarajeshvar/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -233,6 +234,7 @@
 | [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/rajarajeshvar/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rajarajeshvar/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -387,6 +389,7 @@
 | [0486-predict-the-winner](https://github.com/rajarajeshvar/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rajarajeshvar/Leetcode/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/rajarajeshvar/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -519,4 +522,13 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/rajarajeshvar/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rajarajeshvar/Leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
