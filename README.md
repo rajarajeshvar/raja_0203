@@ -506,6 +506,7 @@
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rajarajeshvar/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [3310-remove-methods-from-project](https://github.com/rajarajeshvar/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -514,6 +515,7 @@
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rajarajeshvar/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [3310-remove-methods-from-project](https://github.com/rajarajeshvar/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Combinatorics
 |  |
 | ------- |
@@ -536,4 +538,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/rajarajeshvar/Leetcode/tree/master/0206-reverse-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/rajarajeshvar/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
