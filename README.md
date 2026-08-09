@@ -165,6 +165,7 @@
 | [0877-stone-game](https://github.com/rajarajeshvar/Leetcode/tree/master/0877-stone-game) |
 | [1017-convert-to-base-2](https://github.com/rajarajeshvar/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rajarajeshvar/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -238,6 +239,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/rajarajeshvar/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/0912-sort-an-array) |
+| [1140-stone-game-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/rajarajeshvar/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
@@ -397,6 +399,7 @@
 | [0392-is-subsequence](https://github.com/rajarajeshvar/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/rajarajeshvar/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rajarajeshvar/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/rajarajeshvar/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajarajeshvar/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -467,6 +470,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rajarajeshvar/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/rajarajeshvar/Leetcode/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/rajarajeshvar/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Database
@@ -539,14 +543,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/rajarajeshvar/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rajarajeshvar/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
 ## Linked List
 |  |
