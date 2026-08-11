@@ -258,6 +258,7 @@
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2460-apply-operations-to-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rajarajeshvar/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajarajeshvar/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajarajeshvar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3731-find-missing-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/rajarajeshvar/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -288,6 +289,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajarajeshvar/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajarajeshvar/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/3731-find-missing-elements) |
@@ -356,6 +358,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajarajeshvar/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rajarajeshvar/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajarajeshvar/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rajarajeshvar/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
