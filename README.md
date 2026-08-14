@@ -109,6 +109,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rajarajeshvar/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rajarajeshvar/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -255,6 +256,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rajarajeshvar/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2460-apply-operations-to-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -572,4 +574,12 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/rajarajeshvar/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rajarajeshvar/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/rajarajeshvar/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
