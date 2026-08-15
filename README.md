@@ -264,6 +264,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajarajeshvar/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajarajeshvar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajarajeshvar/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/rajarajeshvar/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
@@ -338,6 +339,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/rajarajeshvar/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1720-decode-xored-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1720-decode-xored-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajarajeshvar/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
