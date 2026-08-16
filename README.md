@@ -171,6 +171,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/rajarajeshvar/Leetcode/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/rajarajeshvar/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3280-convert-date-to-binary](https://github.com/rajarajeshvar/Leetcode/tree/master/3280-convert-date-to-binary) |
@@ -255,6 +256,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2029-stone-game-ix](https://github.com/rajarajeshvar/Leetcode/tree/master/2029-stone-game-ix) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/rajarajeshvar/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rajarajeshvar/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -391,6 +393,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/rajarajeshvar/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0819-most-common-word](https://github.com/rajarajeshvar/Leetcode/tree/master/0819-most-common-word) |
+| [2029-stone-game-ix](https://github.com/rajarajeshvar/Leetcode/tree/master/2029-stone-game-ix) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -510,6 +513,7 @@
 | [0011-container-with-most-water](https://github.com/rajarajeshvar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/rajarajeshvar/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/rajarajeshvar/Leetcode/tree/master/0605-can-place-flowers) |
+| [2029-stone-game-ix](https://github.com/rajarajeshvar/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajarajeshvar/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -558,16 +562,19 @@
 | [0877-stone-game](https://github.com/rajarajeshvar/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/rajarajeshvar/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/rajarajeshvar/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/rajarajeshvar/Leetcode/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -584,4 +591,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rajarajeshvar/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/rajarajeshvar/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
