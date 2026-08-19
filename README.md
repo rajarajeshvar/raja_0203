@@ -246,6 +246,7 @@
 | [1140-stone-game-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/rajarajeshvar/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/rajarajeshvar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/rajarajeshvar/Leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rajarajeshvar/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -296,6 +297,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rajarajeshvar/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1207-unique-number-of-occurrences](https://github.com/rajarajeshvar/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajarajeshvar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/rajarajeshvar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajarajeshvar/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/rajarajeshvar/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
@@ -344,6 +346,7 @@
 | [0645-set-mismatch](https://github.com/rajarajeshvar/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rajarajeshvar/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/rajarajeshvar/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/rajarajeshvar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1720-decode-xored-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1720-decode-xored-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajarajeshvar/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
@@ -518,6 +521,7 @@
 | [0011-container-with-most-water](https://github.com/rajarajeshvar/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/rajarajeshvar/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/rajarajeshvar/Leetcode/tree/master/0605-can-place-flowers) |
+| [1386-cinema-seat-allocation](https://github.com/rajarajeshvar/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/rajarajeshvar/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
