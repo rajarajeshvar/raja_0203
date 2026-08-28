@@ -122,6 +122,7 @@
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rajarajeshvar/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [1768-merge-strings-alternately](https://github.com/rajarajeshvar/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rajarajeshvar/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rajarajeshvar/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -555,6 +557,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/rajarajeshvar/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Queue
 |  |
 | ------- |
