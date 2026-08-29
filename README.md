@@ -274,6 +274,7 @@
 | [2284-sender-with-largest-word-count](https://github.com/rajarajeshvar/Leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2460-apply-operations-to-an-array](https://github.com/rajarajeshvar/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rajarajeshvar/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajarajeshvar/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajarajeshvar/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/rajarajeshvar/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -388,6 +389,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/rajarajeshvar/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rajarajeshvar/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajarajeshvar/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -571,6 +573,7 @@
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rajarajeshvar/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
