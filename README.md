@@ -289,6 +289,7 @@
 | [3731-find-missing-elements](https://github.com/rajarajeshvar/Leetcode/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/rajarajeshvar/Leetcode/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rajarajeshvar/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -523,6 +524,7 @@
 | [1140-stone-game-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/rajarajeshvar/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/rajarajeshvar/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [3904-smallest-stable-index-ii](https://github.com/rajarajeshvar/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Database
 |  |
 | ------- |
